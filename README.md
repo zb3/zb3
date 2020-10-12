@@ -1,6 +1,8 @@
 ### Hi there
 
-Okay. So I've created zb3/zb3 and I can now add this text to my profile. You can do this too, hopefully you'll make a better use of this feature than I did...
+Okay. So I've created zb3/zb3 and I can now add this text to my profile. You can do this too, hopefully you'll make a better use of this feature...
+
+Anyway, here's a giraffe: 🦒
 
 <!--
 **zb3/zb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
