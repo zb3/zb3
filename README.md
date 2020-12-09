@@ -4,6 +4,12 @@ Okay. So I've created zb3/zb3 and I can now add this text to my profile. You can
 
 Anyway, here's a giraffe: 🦒
 
+and here's the link to my Gist profile, cool stuff there:   
+| 🙂  |   👇  | 🙂  |
+|---|:----:|---|
+| 👉 | [zb3's gists](https://gist.github.com/zb3) | 👈 |
+| 🙃  |   👆  | 🙃  |
+
 <!--
 **zb3/zb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
